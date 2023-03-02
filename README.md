@@ -7,3 +7,14 @@ Python NDJSON to JSON Converter
     python ndson2json.py example.ndjson
 
   example.ndjson with the path to your input file, .json output store in output-json directory.
+
+
+  Use https://jsonlint.com/ to validate json
+  
+  Example Error :
+  
+  <img width="573" alt="image" src="https://user-images.githubusercontent.com/37788058/222418810-93e1e5a0-7ace-4546-9b21-af087cac6f19.png">
+
+  Example Valid :
+
+  <img width="576" alt="image" src="https://user-images.githubusercontent.com/37788058/222418930-4f7aacce-c374-4106-bc2c-45b6bc2c88b2.png">
